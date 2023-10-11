@@ -1,0 +1,17 @@
+seqname,genomic_start,genomic_end,width,aa_width,aa_start,aa_end,score,name,Product,Note
+NC_045512.2,266,805,540,180,1,180,ORF1a,nsp1,nsp1,nsp1%3B produced by both pp1a and pp1ab
+NC_045512.2,806,2719,1914,638,180,818,ORF1a,nsp2,nsp2,produced by both pp1a and pp1ab
+NC_045512.2,2720,8554,5835,1945,818,2763,ORF1a,nsp3,nsp3,former nsp1%3B conserved domains are: N-terminal acidic (Ac)%2C predicted phosphoesterase%2C papain-like proteinase%2C Y-domain%2C transmembrane domain 1 (TM1)%2C adenosine diphosphate-ribose 1''-phosphatase (ADRP)%3B produced by both pp1a and pp1ab
+NC_045512.2,8555,10054,1500,500,2763,3263,ORF1a,nsp4,nsp4,nsp4B_TM%3B contains transmembrane domain 2 (TM2)%3B produced by both pp1a and pp1ab
+NC_045512.2,10055,10972,918,306,3263,3569,ORF1a,nsp5,nsp5,nsp5A_3CLpro and nsp5B_3CLpro%3B main proteinase (Mpro)%3B mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al.%2C 2003)%3B produced by both pp1a and pp1ab
+NC_045512.2,10973,11842,870,290,3569,3859,ORF1a,nsp6,nsp6,nsp6_TM%3B putative transmembrane domain%3B produced by both pp1a and pp1ab
+NC_045512.2,11843,12091,249,83,3859,3942,ORF1a,nsp7,nsp7,produced by both pp1a and pp1ab
+NC_045512.2,12092,12685,594,198,3942,4140,ORF1a,nsp8,nsp8,produced by both pp1a and pp1ab
+NC_045512.2,12686,13024,339,113,4140,4253,ORF1a,nsp9,nsp9,ssRNA-binding protein%3B produced by both pp1a and pp1ab
+NC_045512.2,13025,13441,417,139,4253,4392,ORF1a,nsp10,nsp10,nsp10_CysHis%3B formerly known as growth-factor-like protein (GFL)%3B produced by both pp1a and pp1ab
+NC_045512.2,13442,13468,27,9,4392,4401,ORF1a,nsp12,nsp12,nsp12%3B NiRAN and RdRp%3B produced by pp1ab only
+NC_045512.2,13468,16236,2769,923,1,923,ORF1b,polymerase,RNA-dependent RNA polymerase,nsp12%3B NiRAN and RdRp%3B produced by pp1ab only
+NC_045512.2,16237,18039,1803,601,923,1524,ORF1b,helicase,helicase,nsp13_ZBD%2C nsp13_TB%2C and nsp_HEL1core%3B zinc-binding domain (ZD)%2C NTPase/helicase domain (HEL)%2C RNA 5'-triphosphatase%3B produced by pp1ab only
+NC_045512.2,18040,19620,1581,527,1524,2051,ORF1b,exonuclease,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT%3B produced by pp1ab only
+NC_045512.2,19621,20658,1038,346,2051,2397,ORF1b,endoRNAse,endoRNAse,nsp15-A1 and nsp15B-NendoU%3B produced by pp1ab only
+NC_045512.2,20659,21552,894,298,2397,2695,ORF1b,methyltransferase,2'-O-ribose methyltransferase,nsp16_OMT%3B 2'-o-MT%3B produced by pp1ab only
