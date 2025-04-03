@@ -5,7 +5,7 @@ Understanding the adaptation of SARS-CoV-2 is critical for the development of ef
 We have provided notebooks and data necessary to replicate manuscript figures.
 
 # Citation
-Gayvert et al. "Viral population genomics reveals host and infectivity impact on SARS-CoV-2 adaptive landscape". bioRXiv 2021.
+<a href = https://www.nature.com/articles/s44298-023-00007-z> Gayvert K, McKay S, Lim WK, Baum A, Kyratsous C, Copin C, Atwal GS. "Evolutionary trajectory of SARS-CoV-2 genome shifts during widespread vaccination and emergence of Omicron variant". npj Viruses 2023. </a>
 
 # License
 License can be found in the file LICENSE.
